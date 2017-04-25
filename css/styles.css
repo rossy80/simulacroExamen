@@ -34,10 +34,18 @@
     margin-right: 5px;
 }
 
+.textoSue{
+  background-color:#FFE4B5;
+  font-family: arial;
+  padding: 15px;
+  font-size: 18px;
+  color:#FF69B4;
+  margin-top: 30px;
+  
 #fer{
     color:turquoise;
-    font-family: 'Fredericka the Great', cursive;    
-
+    font-family: 'Fredericka the Great', cursive;
+  }
 
 .daffyta{
   background-color: #05c6ff;
